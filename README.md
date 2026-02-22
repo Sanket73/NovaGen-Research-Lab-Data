@@ -33,18 +33,6 @@ Strong recall performance
 
 Robust and stable predictions compared to other models
 
-## Conclusion
-
-The Random Forest classifier provides the best balance between recall and accuracy, making it the recommended model for deployment in NovaGen Research Labs' workflow.
-
-## Future Improvements
-
-Hyperparameter tuning for further performance gains
-
-Testing additional ensemble models
-
-Deployment pipeline integration
-
 ## Technologies Used
 
 * Programming Language: Python
@@ -74,3 +62,15 @@ Accuracy, Recall, Precision, F1-Score, Confusion Matrix
 ### Development Environment:
 
 Jupyter Notebook / Anaconda
+
+## Conclusion
+
+The Random Forest classifier provides the best balance between recall and accuracy, making it the recommended model for deployment in NovaGen Research Labs' workflow.
+
+## Future Improvements
+
+Hyperparameter tuning for further performance gains
+
+Testing additional ensemble models
+
+Deployment pipeline integration
