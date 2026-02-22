@@ -44,3 +44,33 @@ Hyperparameter tuning for further performance gains
 Testing additional ensemble models
 
 Deployment pipeline integration
+
+## Technologies Used
+
+* Programming Language: Python
+
+* Data Handling & Processing: Pandas, NumPy
+
+* Data Visualization: Matplotlib, Seaborn
+
+* Machine Learning: Scikit-learn
+
+### Models Implemented:
+
+* Logistic Regression
+
+* K-Nearest Neighbors (KNN)
+
+* Random Forest
+
+* Gradient Boosting
+
+* Voting Classifier (Ensemble)
+
+### Model Evaluation Metrics: 
+
+Accuracy, Recall, Precision, F1-Score, Confusion Matrix
+
+### Development Environment:
+
+Jupyter Notebook / Anaconda
