@@ -69,6 +69,10 @@ Accuracy, Recall, Precision, F1-Score, Confusion Matrix
 
 Jupyter Notebook / Anaconda
 
+## Project Architecture Diagram
+
+![NovaGen-Research-Lab-Data Architecture](https://github.com/Sanket73/NovaGen-Research-Lab-Data/blob/main/image.png?raw=true)
+
 ## Conclusion
 
 The Random Forest classifier provides the best balance between recall and accuracy, making it the recommended model for deployment in NovaGen Research Labs' workflow.
