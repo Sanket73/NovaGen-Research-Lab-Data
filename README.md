@@ -84,3 +84,11 @@ Hyperparameter tuning for further performance gains
 Testing additional ensemble models
 
 Deployment pipeline integration
+
+# Connect with Me
+
+Sanket Dongardive
+
+GitHub: https://github.com/Sanket73
+
+LinkedIn: https://linkedin.com/in/sanket-dongardive-515793315
